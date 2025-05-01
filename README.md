@@ -54,7 +54,8 @@
 ## 🌱 En cours d'apprentissage :
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![Go]([https://img.shields.io/badge/Go-A8B9CC?logo=go&logoColor=cyan](https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg))
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+
 <!--
 **TyrYoxan/TyrYoxan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
