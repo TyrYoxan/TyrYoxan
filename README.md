@@ -54,7 +54,7 @@
 ## 🌱 En cours d'apprentissage :
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-
+![Go](https://img.shields.io/badge/C-A8B9CC?logo=go&logoColor=white)
 <!--
 **TyrYoxan/TyrYoxan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
