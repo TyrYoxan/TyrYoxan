@@ -1,6 +1,6 @@
 # TyrYoxan
 
-### Biographie
+## Biographie
 
 Diplômé de BUT informatiqiue option Développement Web et Mobile à l'IUT Nancy Charlemagne en 2025. Je suis un développeur sérieux et entreprenant qui n'a pas peur des défis.
 
