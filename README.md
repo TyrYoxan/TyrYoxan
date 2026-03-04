@@ -1,8 +1,8 @@
 # TyrYoxan
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyrYoxan&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TyrYoxan&size_weight=0.5&count_weight=0.5&theme=tokyonight)
+###Biographie
 
+Diplômé de BUT informatiqiue option Développement Web et Mobile à l'IUT Nancy Charlemagne en 2025. Je suis un développeur sérieux et entreprenant qui n'a pas peur des défis.
 
 ## 📚 Compétence Acquise
 
